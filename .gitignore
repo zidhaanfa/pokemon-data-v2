@@ -19,3 +19,6 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+*.fvm/           # Flutter version manager
+*.vscode/        # VS Code project files
